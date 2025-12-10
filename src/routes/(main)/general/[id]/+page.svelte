@@ -27,7 +27,6 @@
   <div class="flex-[4] min-h-screen">
     <div class="flex flex-col pt-6 md:pt-8">
       <div class="flex-1">
-        <p class="mb-4">{new Date().getFullYear() - 1} - {new Date().getFullYear()}</p>
         <h1 class="text-left font-bold pr-[14rem] text-4xl md:text-6xl leading-[3rem] md:leading-[5rem]">{animatedTitleOutput}</h1> 
       </div>
 
