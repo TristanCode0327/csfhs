@@ -1,6 +1,6 @@
 <script lang="ts">
   import Container from '$lib/components/Container.svelte';
-  import ImageCarousel from '$lib/components/images/ImageCarousel.svelte';
+  import ImageCarousel from '$lib/components/images-components/ImageCarousel.svelte';
   import TeacherCard from '$lib/components/TeacherCard.svelte';
   import BackdropText from '$lib/components/text/BackdropText.svelte';
   import FaGraduationCap from 'svelte-icons/fa/FaGraduationCap.svelte';
