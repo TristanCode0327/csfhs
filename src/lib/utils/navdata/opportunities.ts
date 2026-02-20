@@ -309,8 +309,7 @@ export const opportunities: Opportunities[] = [
             },
         ],
         signup: {
-            talkToTeacher: true,
-            link: 'https://www.congressionalappchallenge.us/2025-winners/#California'
+            talkToTeacher: true
         },
         type: 'Competition',
         club: undefined,
